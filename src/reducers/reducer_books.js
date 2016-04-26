@@ -4,5 +4,5 @@
      { title: "Wilderness and the American Mind"},
      { title: "Walden"},
      { title: "My First Summer in the Sierra"}
-   ]
+   ];
  }
